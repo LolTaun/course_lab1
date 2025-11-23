@@ -14,6 +14,6 @@ def main(
         print(f"Привет, {name}!")
 
 if __name__ == "__main__":
-    # Запуск приложения Typer
+    # Запуск приложения Typer из библиотеки Typer
     typer.run(main)
 
